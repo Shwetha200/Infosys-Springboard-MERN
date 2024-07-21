@@ -1,0 +1,29 @@
+{
+  "name": "backendcode",
+  "version": "1.0.0",
+  "description": "A little mern app for learn",
+  "main": "server.js",
+  "scripts": {
+"server":"nodemon" 
+ },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shwetha200/Infosys-Springboard-MERN"
+  },
+  "author": "Shwetha",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.12",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4"
+  }
+}

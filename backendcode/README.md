@@ -1,4 +1,4 @@
-<!-- #testing ap using katalon.
+#testing ap using katalon.
 
 #to initialize node application : npm init -y
 
@@ -19,4 +19,4 @@ concurrently= A tool that allows us to run multiple commands concurrently.(To st
 nodemon=  monitors for changes and restarts the server.
 
 Deploy = Heroku
- -->
+
